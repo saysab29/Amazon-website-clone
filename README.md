@@ -19,3 +19,5 @@ Acknowledgments
 The project is inspired by the Amazon website.
 Special thanks to the open-source community and Shraddha Ddi(Apna College) for their valuable contributions.
 The icons used in the project are from FontAwesome.
+
+Link for website: https://saysab29.github.io/Amazon-website-clone/
